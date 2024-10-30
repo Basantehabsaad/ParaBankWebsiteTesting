@@ -111,12 +111,13 @@ The goal is to develop an automated testing framework for comprehensive testing 
 
 
 ## Overview Links
-• Final E2E Video
+•	[Final E2E Video]( https://drive.google.com/file/d/1jcLMPPFucw4ApFjpCLhphcE9vPdmyYFj/view?usp=drive_link)
 
-• Presentation
+•	[Presentation]( https://docs.google.com/presentation/d/11OB_uXsO9sGaqoG4Eujv6r2ZHSmYZuO-/edit?usp=drive_link&ouid=113003438669160116406&rtpof=true&sd=true)
 
-• Jira Summary Report
+•	[Jira Summary Report]( https://drive.google.com/file/d/1M8JoPnP8yZQ3EevsAM96ANWsgni20TRl/view?usp=drive_link)
 
-• Test Cases Export Excel
+•	[Test Cases Export Excel]( https://docs.google.com/spreadsheets/d/13kgFLmbREW5dE52v8OoBbhuToqQX51YA/edit?usp=drive_link&ouid=113003438669160116406&rtpof=true&sd=true)
 
-• API-Postman Collection
+•	[API-Postman Collection]( https://drive.google.com/file/d/19YPRVOPzFbyR1isi2v5iELazTQa4vweV/view?usp=drive_link)
+
