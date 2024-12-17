@@ -121,3 +121,24 @@ The goal is to develop an automated testing framework for comprehensive testing 
 
 •	[API-Postman Collection]( https://drive.google.com/file/d/19YPRVOPzFbyR1isi2v5iELazTQa4vweV/view?usp=drive_link)
 
+
+
+---
+
+## Contributing  
+Contributions are welcome! If you have any suggestions for improving the test cases or adding new ones, feel free to fork the repository, make changes, and submit a pull request.  
+
+---
+
+## License  
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.  
+
+---
+
+## Contact  
+For any inquiries or feedback, please reach out to:  
+**Basant Ehab**  
+- Email: basantehab940@gmail.com  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/basant-ehab)  
+
+
